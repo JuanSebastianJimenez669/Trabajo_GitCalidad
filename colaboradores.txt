@@ -1,2 +1,6 @@
 "Nombres colaboradores: Juan Sebastian Jimenez, " 
 "Jorge Luis - Colaborador" 
+"Correo: jorge.sepulveda253@pascualbravo.edu.co" 
+Rol: Aprendiz 
+Mensaje: Soy jorge el aprendiz! 
+"Correo: jorge.sepulveda253@pascualbravo.edu.co" 
