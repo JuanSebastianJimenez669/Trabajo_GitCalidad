@@ -1,2 +1,5 @@
 "Nombres colaboradores: Juan Sebastian Jimenez, " 
-"Jorge Luis - Colaborador" 
+"Jorge Luis - Colaborador"
+"Jesús Daniel – colaborador"
+
+
