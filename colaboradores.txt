@@ -1,5 +1,5 @@
 "Nombres colaboradores: Juan Sebastian Jimenez, " 
 "Jorge Luis - Colaborador"
-"Jesús Daniel – colaborador"
+"Jesús Daniel – colaborador, - cuarto commit completado"
 
 
